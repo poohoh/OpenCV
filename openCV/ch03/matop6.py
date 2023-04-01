@@ -13,5 +13,6 @@ def func6():
     print("mat3:", mat3, sep='\n')
     print("mat4:", mat4, sep='\n')
 
+
 if __name__ == '__main__':
     func6()

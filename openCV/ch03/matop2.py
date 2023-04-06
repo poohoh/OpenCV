@@ -3,7 +3,7 @@ import cv2
 
 
 def func2():
-    img1 = np.empty((480, 640), np.uint8)       # grayscale
+    img1 = np.empty((480, 640), np.uint8)       # 5.1.1.grayscale
     img2 = np.zeros((480, 640, 3), np.uint8)    # color
     img3 = np.ones((480, 640), np.int32)        # 1's matrix
     img4 = np.full((480, 640), 0, np.float32)   # 0.0 matrix

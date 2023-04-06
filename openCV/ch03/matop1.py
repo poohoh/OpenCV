@@ -13,7 +13,7 @@ def func1():
     print('img1.shape:', img1.shape)
 
     if len(img1.shape) == 2:
-        print('img1 is a grayscale image')
+        print('img1 is a 5.1.1.grayscale image')
     elif len(img1.shape) == 3:
         print('img1 is a truecolor image')
 
